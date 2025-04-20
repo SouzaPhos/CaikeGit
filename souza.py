@@ -1,5 +1,5 @@
 print("caike, né?\n vamos começar")
 num1 = float(input("digite o 1° Numero: "))
-num2 = float(input("digite o 2° Numero: "))
+num2 = float(input("digite o 2° Numesdaso: "))
 soma = (num1 + num2)
 print("a soma desses numeros é: ",soma)
